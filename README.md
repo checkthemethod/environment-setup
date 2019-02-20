@@ -29,3 +29,6 @@ Alternative:
 - [FireFox](https://www.mozilla.org/en-US/firefox/new/)
 
 #### Extensions
+
+### Full Stack Resources
+[Online Reading List](reading-list.md)
