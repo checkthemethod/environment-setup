@@ -31,5 +31,5 @@ Alternative:
 #### Extensions
 
 ### Full Stack Resources
-[Online Reading List](reading-list.md)
-[All The Templates](https://github.com/checkthemethod/allthetemplates)
+- [Online Reading List](reading-list.md)
+- [All The Templates](https://github.com/checkthemethod/allthetemplates)
