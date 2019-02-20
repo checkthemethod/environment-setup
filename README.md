@@ -1,5 +1,5 @@
-# environment-setup
-💻 A running list of my environment setup for full stack development and plugins/extensions I find helpful
+# My Dev Environment Setup (2019)
+💻 A running list of helpful apps and plugins for full stack development
 
 ### Terminal
 - [iTerm2](https://www.iterm2.com/version3.html)
