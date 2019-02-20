@@ -32,4 +32,4 @@ Alternative:
 
 ### Full Stack Resources
 - [Online Reading List](reading-list.md)
-- [All The Templates](https://github.com/checkthemethod/allthetemplates)
+- [All The Templates](all-the-templates.md)
